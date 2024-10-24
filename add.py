@@ -5,4 +5,3 @@ def add(x):
 # arguments: x (list of numbers to be added)
     return sum(x)
 >>>>>>> iss53
-\\cc
